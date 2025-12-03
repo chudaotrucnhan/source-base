@@ -11,10 +11,6 @@ NestJS REST API boilerplate for a typical project
 
 [Full documentation here](/docs/readme.md)
 
-Demo: <https://nestjs-boilerplate-test.herokuapp.com/docs>
-
-Belongs to the [bc boilerplates](https://bcboilerplates.com/) ecosystem
-
 ## Table of Contents <!-- omit in toc -->
 
 - [Features](#features)
